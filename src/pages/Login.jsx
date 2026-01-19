@@ -21,7 +21,7 @@ function Login() {
             <div className="bg-white rounded-2xl shadow-2xl p-8 max-w-md w-full">
                 <div className="text-center mb-8">
                     <h1 className="text-4xl font-bold text-gray-800 mb-2">
-                        🎵 MoodTune
+                        🎵 MusiVerse
                     </h1>
                     <p className="text-gray-600">
                         AI-Powered Spotify Music Companion
